@@ -1,0 +1,6 @@
+lakehouse/
+modelos/
+*.csv.zip
+datos/
+__pycache__/
+.ipynb_checkpoints/
